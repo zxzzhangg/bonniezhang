@@ -1,24 +1,21 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2019-05-23
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## My Background
+  Hello, welcome to my personal website. My name is Bonnie. Now, I am doing my Master of Data Science at University of British Columbia and expected to graduate on late June, 2019. I earned a Bachelor of Science degree in Statistics from University of California, Davis in 2018.
+
+  I was born and raised in China, and went to the United States for my undergraduate study five years ago. Now I moved to Vancouver for my graduate study in Data Science. I am a fast learner, a problem solver, and also passionate about data and coding.
+
+## My Skillset
+  - Programming Language: R, SQL, Python, MATLAB, STATA
+  - Tools: GitHub, Jupyter Notebook, Microsoft Office Suite, AWS, Google Cloud
+  - Statistics: Regression, Hypothesis testing, Time Series Analysis, Bayesian inference, A/B testing
+  - Machine Learning Techniques: Decision Tree, Random Forest, Neural Network, Regression, KNN, SVM
 
 ## Preview
 
@@ -28,10 +25,10 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+See a [resume]('assets/img/updated_resume_zixin.pdf') hosted on GitHub.
 
 ## Getting Started
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
+
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
