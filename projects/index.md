@@ -1,7 +1,8 @@
 ---
-layout: project
+layout: projects
 title: All Projects
-excerpt: "A List of Projects"
+tags: [about, Jekyll, theme, moon]
+date: 2019-05-23
 comments: false
 ---
 
