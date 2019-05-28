@@ -10,8 +10,9 @@ comments: false
 This project is to design a package in both R and Python version to provide understanding of the input scripts by retrieving any
 packages, functions and size of characteristics contained in the file. We also developed three functions and established 100% coverage unite tests for each function.
 
-[Read More(Python)](https://github.com/zxzzhangg/LibRely-Py-)
-[Read More(R)](https://github.com/zxzzhangg/LibRely-R-)
+[Read More(Python Version)](https://github.com/zxzzhangg/LibRely-Py-)
+
+[Read More(R Version)](https://github.com/zxzzhangg/LibRely-R-)
 
 
 ## Analysis of worldly wines’ prices and ratings via shiny app
