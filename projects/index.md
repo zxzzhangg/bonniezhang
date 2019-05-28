@@ -1,8 +1,6 @@
 ---
-layout: projects
+layout: page
 title: All Projects
-excerpt: "A List of Projects"
-date: 2019-05-23
 comments: false
 ---
 
