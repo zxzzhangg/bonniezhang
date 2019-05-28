@@ -1,6 +1,8 @@
 ---
 layout: page
 title: All Projects
+tags: [about, Jekyll, theme, moon]
+date: 2019-05-23
 comments: false
 ---
 
