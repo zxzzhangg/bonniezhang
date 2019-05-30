@@ -7,12 +7,15 @@ comments: false
 ---
 
 ## My Background
-  Hello, welcome to my personal website. My name is Bonnie. Now, I am doing my Master of Data Science at University of British Columbia and expected to graduate on late June, 2019. I earned a Bachelor of Science degree in Statistics from University of California, Davis in 2018.
+Hello, welcome to my personal website. My name is Bonnie, an candidate of Master of Data Science at University of British Columbia who is expected to graduate on late June, 2019. I earned a Bachelor of Science degree in Statistics from University of California, Davis in 2018.
 
-  I was born and raised in China, and went to the United States for my undergraduate study five years ago. Now I moved to Vancouver for my graduate study in Data Science. I am a fast learner, a problem solver, and also passionate about data and coding.
+I have strong passion about the filed of data science and artificial intelligence because I think these are powerful tools to make the world and people's life better. As myself a fast learner and problem solver, I enjoy exploring and learning new things so I always keep updating my skillsets.
+
+I was born and raised in south China, and went to the United States five years ago. I love sports and outdoor activities, like badminton, hiking and swimming. 
+
 
 ## My Skillset
-  - Programming Language: R, SQL, Python, MATLAB, STATA
-  - Tools: GitHub, Jupyter Notebook, Microsoft Office Suite, AWS, Google Cloud
-  - Statistics: Regression, Hypothesis testing, Time Series Analysis, Bayesian inference, A/B testing
-  - Machine Learning Techniques: Decision Tree, Random Forest, Neural Network, Regression, KNN, SVM
+  - Programming Language: Python, SQL, R, MATLAB, STATA
+  - Tools: GitHub, Jupyter Notebook, Microsoft Office Suite, AWS, Google Cloud, Tableau, Spark
+  - Statistics: Regression, A/B Testing, Hypothesis Testing, Time Series Analysis, Bayesian Inference
+  - Machine Learning Techniques: Boosting, Decision Tree, Random Forest, Neural Network, KNN, SVM, Computer Vision, Natural Language Processing
