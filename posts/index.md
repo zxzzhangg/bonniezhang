@@ -8,7 +8,7 @@ comments: false
 
 ## Machine Learning Engineering Intern (UBC Capstone Project)
 #### realtor.com (Vancouver, BC)
-- Achieved 95% accuracy for housing price prediction in over 50 US cities by implementing machine learning models such as LightGBM, XGBoost, and Dense Neural Network.
+- Achieved 90% accuracy for housing price prediction in over 50 US cities by implementing machine learning models such as LightGBM, XGBoost, and Dense Neural Network.
 - Significantly improved user experience and facilitated user engagement by creating and deploying a front-end web application connected to the model using the Plotly Dash framework on Python.
 - Contributed to company quarterly planning by presenting the machine learning techniques as well as model results, convincing the company to scale up the project and add it as a new feature in future releases.
 
