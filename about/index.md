@@ -19,3 +19,7 @@ I was born and raised in south China, and went to the North America five years a
    - Tools: AWS (EC2, S3, EMR), Google Cloud, GitHub, Jupyter Notebook, Tableau
    - Statistics: Regression, Bayesian Inference, A/B testing, Time-series Analysis
    - Machine Learning Techniques: Boosting, Decision Tree, Random Forest, Neural Network, KNN, SVM, Computer Vision, Natural Language Processing
+
+## Certificates
+- AWS Certified Solutions Architect - Associate (Sept ’19 – Sept ’22)
+- AWS Certified Cloud Practitioner (Aug ’19 – Sept ’22)
