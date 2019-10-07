@@ -19,11 +19,13 @@ comments: false
 ## The Hunger Game (Hackathon of Girls in Tech)
 - Conducted data engineering and modeled data combinations from different online sources
 - Developed a UI by shiny R to with multiple user inputs and interactive plots to explore an environment problem and found significance
+
 [Read More](https://devpost.com/software/girls_in_tech)
 
 ## Packages for meta-analysis of R/Python scripts
 - Designed a package in both R and Python version to provide an understanding of the input scripts by retrieving any packages, functions, and size of characteristics contained in the files
 - Developed three functions and established 100% coverage unite tests for each function
+
 [Read More(Python Version)](https://github.com/zxzzhangg/LibRely-Py-)
 
 [Read More(R Version)](https://github.com/zxzzhangg/LibRely-R-)
@@ -32,6 +34,7 @@ comments: false
 ## Analysis of worldly wines’ prices and ratings via shiny app
 - Cleansed the wine information dataset through data wrangling in R and resolved data issues
 - Created a UI by Shiny in R including interactive plots by Plotly for the user to reach out details of their selection of wines
+
 [Read More](https://github.com/zxzzhangg/worldly-wines)
 
 
