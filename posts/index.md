@@ -5,7 +5,10 @@ tags: [about, Jekyll, theme, moon]
 date: 2019-05-23
 comments: false
 ---
-## Data Analyst (Contractor) 
+## Data Engineer 
+#### Infoblox (Burnaby, Canada)
+
+## Data Analyst 
 #### TELUS (Vancouver, Canada)
 - Gained extensive knowledge in Telus small business products and multiple internal operating systems
 - Extracted, organized and validated customers’ order data on Salesforce business platform and used Excel to analyze business orders
